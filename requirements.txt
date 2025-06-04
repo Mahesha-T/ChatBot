@@ -1,0 +1,10 @@
+groq
+streamlit
+PyMuPDF
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+langchin-chroma
+langchain-groq
+wikipedia
