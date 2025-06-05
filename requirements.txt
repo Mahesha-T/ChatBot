@@ -5,6 +5,6 @@ langchain
 langchain-community
 langchain-core
 sentence-transformers
-langchin-chroma
+langchain-chroma
 langchain-groq
 wikipedia
